@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Baj5YPCxHrYSib1GPoMhS+4+OEcY3jRLRPvgMyDBvJ7ImV7WBifDQNa2t2zvwfoU5JEhQ7QxQMJz8AVgVBZ80g==",
+  "success": true,
+  "projectFilePath": "/Users/alice/Documents/myWebApp/myWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/alice/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
