@@ -11,6 +11,7 @@ namespace myWebApp
 {
     public class Program
     {
+        // Editing the same line (file from feature-2 branch)
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
